@@ -9,4 +9,4 @@
 1. **PyTorch** (low-level)
 
 * [lightning-flash repo](https://github.com/PyTorchLightning/lightning-flash)
-* [PyTorchLlightning documentation](https://pytorch-lightning.readthedocs.io/en/latest/)
+* [PyTorchLightning documentation](https://pytorch-lightning.readthedocs.io/en/latest/)
