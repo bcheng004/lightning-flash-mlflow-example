@@ -2,3 +2,4 @@ notebooks/config.ini
 .vscode
 notebooks/data
 notebooks/lightning_logs
+notebooks/.ipynb_checkpoints
