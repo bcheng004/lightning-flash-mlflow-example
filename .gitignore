@@ -3,3 +3,4 @@ notebooks/config.ini
 notebooks/data
 notebooks/lightning_logs
 notebooks/.ipynb_checkpoints
+.ipynb_checkpoints
