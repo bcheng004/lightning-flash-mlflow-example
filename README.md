@@ -11,7 +11,13 @@
 ##### pip install
 
 * pip install lightning-flash
-* pip install 'lightning-flash[text]'
+* pip install 'lightning-flash[all]'
+    * pip install 'lightning-flash[text]'
+    * pip install 'lightning-flash[tabular]'
+    * pip install 'lightning-flash[vision]'
+        * pip install 'lightning-flash[image]'
+        * pip install 'lightning-flash[video]'
+    * pip install 'lightnign-flash[text]'
 
 ##### Official Documentation
 
